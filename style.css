@@ -221,14 +221,14 @@
 .container2{
     width: 96%;
     height: 1000px;
-    background-color: whitesmoke;
+    background-color: white;
     margin-left: 50px;
 }
 
 .topp{
     width: 95%;
     height: 330px;
-    background-color: whitesmoke;
+    background-color: white;
 }
 .top1{
     width: 22%;
@@ -315,13 +315,13 @@
 .content{
     width: 100%;
     height: 600px;
-    background-color: whitesmoke;
+    background-color: white;
 
 }
 .temp1{
     width: 40%;
     height: 570px;
-    background-color: whitesmoke;
+    background-color: white;
     margin-top: 10px;
     margin-right: 160px;
     margin-bottom: 10px;
@@ -332,7 +332,7 @@
 .temp2{
     width: 45%;
     height: 570px;
-    background-color: whitesmoke;
+    background-color: white;
     margin-top: 40px;
     margin-left: 5px;
     margin-right: 10px;
@@ -343,7 +343,7 @@
 .rect1{
     width:88%;
     height: 270px;
-    background-color: whitesmoke;
+    background-color: white;
     margin-top: 10px;
     margin-left: 10px;
     margin-right: 30px;
@@ -351,7 +351,7 @@
 .rect2{
     width:95%;
     height: 300px;
-    background-color: whitesmoke;
+    background-color: white;
     margin-top: 15px;
     margin-left: 10px;
     margin-right: 20px;
@@ -399,7 +399,7 @@
 .head{
     width: 90%;
     height: 30px;
-    background-color:whitesmoke;
+    background-color:white;
     margin-top: 70px;
     margin-left: 10px;
     padding-top: 8px;
@@ -410,7 +410,7 @@
 .topic{
     width:90% ;
     height: 80px;
-    background-color: whitesmoke;
+    background-color: white;
     margin-top: 1px;
     margin-left: 10px;
     font-size: 23px;
@@ -421,7 +421,7 @@
 .conetent{
     width: 90%;
     height: 150px;
-    background-color:whitesmoke;
+    background-color:white;
     margin-left: 10px;
     color: gray;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -429,7 +429,7 @@
 .sub1{
     width: 45%;
     height: 90px;
-    background-color: whitesmoke;
+    background-color: white;
     margin-left: 15px;
     float: left;
     margin-top: 20px;
@@ -437,7 +437,7 @@
 .sub2{
     width: 45%;
     height: 90px;
-    background-color: whitesmoke;
+    background-color: white;
     margin-left: 20px;
     float: left;
     margin-top: 20px;
@@ -458,7 +458,7 @@
 .con1{
     width: 60%;
     height: 60px;
-    background-color:whitesmoke;
+    background-color:white;
     color: gray;
     float: right;
     padding-top: 20px;
@@ -468,7 +468,7 @@
 .num2{
     width: 30%;
     height: 90px;
-    background-color: whitesmoke;
+    background-color: white;
     border-style: solid;
     border-color: whitesmoke whitesmoke whitesmoke #FEA116;
     font-size: 60px;
@@ -478,7 +478,7 @@
 .con2{
     width: 60%;
     height: 60px;
-    background-color:whitesmoke;
+    background-color:white;
     color: gray;
     float: right;
     padding-top: 20px;
@@ -514,12 +514,12 @@
 .third{
     width: 100%;
     height: 690px;
-    background-color: whitesmoke;
+    background-color: white;
 }
 .food{
     width: 30%;
     height: 40px;
-    background-color: whitesmoke;
+    background-color: white;
     margin-top: 30px;
     margin-left: 450px;
     color:#FEA116;
@@ -532,7 +532,7 @@
 .bold{
     width: 30%;
     height: 60px;
-    background-color:whitesmoke;
+    background-color:white;
     font-family: 'Nunito', sans-serif; 
     margin-left: 470px;
     color: black;
@@ -544,7 +544,7 @@
 .coff{
     width: 30%;
     height: 80px;
-    background-color:whitesmoke;
+    background-color:white;
     margin-left: 470px;
     
 
@@ -552,7 +552,7 @@
 .snac1{
     width: 22%;
     height: 60px;
-    background-color: whitesmoke;
+    background-color: rgb(250, 248, 248);
     float: left;
     color: gray;
     padding-left: 30px;
@@ -561,7 +561,7 @@
 .snac2{
     width: 22%;
     height: 60px;
-    background-color: whitesmoke;
+    background-color: white;
     float: left;
     color: gray;
     padding-left: 30px;
@@ -571,7 +571,7 @@
 .snac3{
     width: 22%;
     height: 60px;
-    background-color: whitesmoke;
+    background-color: white;
     float: left;
     color: gray;
     padding-left: 30px;
@@ -580,7 +580,7 @@
 .mrg{
     width: 49%;
     height: 450px;
-    background-color: whitesmoke;
+    background-color: white;
     float: left;
     margin-left: 10px;
     
@@ -588,7 +588,7 @@
 .evg{
     width: 49%;
     height: 450px;
-    background-color: whitesmoke;
+    background-color: white;
     float: right;
     margin-right: 10px;
 }
@@ -627,7 +627,7 @@
 .hr{
     width:87%;
     /* height: 20px; */
-    background-color: whitesmoke;
+    background-color: white;
     color: gray;
 }
 
@@ -666,7 +666,7 @@
 .bb1{
     width: 75%;
     height: 60px;
-    background-color: whitesmoke;
+    background-color: white;
     float: right;
     margin-right: 10px;
     margin-top: 28px;
@@ -675,7 +675,7 @@
     
         width: 78%;
         height: 75px;
-        background-color: whitesmoke;
+        background-color: white;
         float: right;
         margin-right: 10px;
         margin-top: 10px;
@@ -684,7 +684,7 @@
 .b3{
     width: 78%;
     height: 75px;
-    background-color: whitesmoke;
+    background-color: white;
     float: right;
     margin-right: 10px;
     margin-top: 10px;
@@ -692,7 +692,7 @@
 .b4{
     width: 78%;
     height: 75px;
-    background-color:whitesmoke;
+    background-color:white;
     float: right;
     margin-right: 10px;
     margin-top: 10px;
@@ -715,7 +715,7 @@
 .fourth{
     width: 100%;
     height: 500px;
-    background-color: whitesmoke;
+    background-color: white;
 }
 .video{
     width: 50%;
@@ -734,10 +734,11 @@
     width: 20%;
     height: 40px;
     background-color:black;
-    font-size: 30px;
+    font-size: 22px;
     margin-top: 30px;
     margin-left: 45px;
-    color: #feaf39;
+    color: #FEA116;
+    font-family:'Pacifico', cursive ;
 }
 .conect{
     width: 70%;
@@ -748,6 +749,7 @@
     margin-top: 10px;
     font-size: 45px;
     color: white;
+    font-family: 'Nunito', sans-serif;
     
 }
 .name{
@@ -794,7 +796,7 @@
  height: 90px;
  margin-left: 45px;
  margin-top: 20px;
- background-color: aliceblue;
+ background-color:whitesmoke;
  float: left;
  border-radius: 2px;
 }
@@ -803,7 +805,7 @@
     height: 60px;
     border-radius: 2px;
     margin-left: 45px;
-    background-color: #feaf39;;
+    background-color:#FEA116;
     color: white;
     font-size: 20px;
     margin-top: 10px;
@@ -819,7 +821,7 @@
     width: 50%;
     height: 100px;
     background-color: whitesmoke;
-    /* margin-left: 300px; */
+   
     margin-top: 90px;
     margin-left: 350px;
 
@@ -1487,7 +1489,7 @@
     float: left;
 }
 /* end page */
-@media only screen and (max-width: 428px) {
+@media only screen and (max-width: 427px) {
     .container {
       background-color:black;
       width: 100%;
@@ -1764,7 +1766,7 @@ margin-right: 0px;}
     }
   .third{
     width: 100%;
-    height: 500px;
+    height: 1100px;
   }
   .bold{
     width: 90%;
@@ -1815,7 +1817,7 @@ margin-right: 0px;}
     }
     .evg{
         width: 99%;
-        height: 300px;
+        height: 420px;
         margin-left: 0px;
         margin-top: 0px;
         
@@ -1861,8 +1863,146 @@ margin-right: 0px;}
         margin-left: 10px;
         border-radius: 3px;
     }
-   
+    .fourth{
+        width: 100%;
+        height: 900px;
+        margin-top: 180px;
+    }
+   .video{
+    width: 97%;
+    
+    padding-right: -210px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   }
+   .black{
+    width: 100%;
+    height: 650px;
+   }
+   .conect{
+    width: 80%;
+    height: 50px;
+    padding-left: 10px;
+    margin-left: 0px;
+    margin-right: 30px;
+    margin-top: 5px;
+    font-size: 28px;
+ 
+
+   }
+   .name{
+    width: 75%;
+    margin-left: 40px;
+    height: 55px;
+
+   }
+   .email{
+    width: 75%;
+    margin-right: 63px;
+    height: 55px;
+   }
+   .date{
+    width: 75%;
+    margin-left: 40px;
+    height: 55px;
+   }
+   .people{
+    width: 75%;
+    margin-right: 63px;
+    height: 55px;
+   }
+   .special{
+    width: 75%;
+    margin-left: 42px;
+    height: 88px;
+   }
+   .submit{
+    width: 75%;
+    margin-right: 65px;
+    height: 60px;
+    margin-top: 20px;
+   }
+   .five{
+    margin-top: 350px;
+    height: 600px;
+   }
+   .chef{
+    width: 60%;
+    height: 450px;
+    margin-top: 70px;
+    
 }
+.ch1{
+    width: 150%;
+    margin-left: 0px;
+    height: 480px;
+    margin-right: 20px;
+ 
 
+}
+.text{
+    width: 90%;
+    height: 100px;
+ 
+    margin-top: 30px;
+    margin-left: 10px;
+
+}
+.gold{
+    width: 60%;
+    height: 40px;
    
+    margin-left: 10px;
+    font-size: 20px;
+    /* padding-left: 85px;     */
+}
+.white{
+    
+        width: 70%;
+        height: 100px;
+        margin-top: -5px;
+        font-size: 30px;
+        margin-left:30px;
+        padding-left: 40px;
+}
+.chefimg {
+    width: 85%;
+    height: 320px;
+    
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 15px;
+   }
+   .h2chef{
+    
+    margin-left: 28px;
+    font-size: 20px;
+}
+.ch2{
+    width: 150%;
+    margin-left: 0px;
+    height: 480px;
+    margin-right: 20px;
+    margin-top: 90px;
+    background-color: aqua;
+ 
 
+}
+.chimg1{
+    
+        width: 90%;
+        height: 60px;
+        margin-top: 5px;
+        margin-right: 50px;
+}
+  .chef1hidden1{
+    margin-left: 35px;
+    width: 12%;
+
+  }    
+  .chef1hidden2,.chef1hidden3{
+    width: 12%;
+  }  
+
+}
