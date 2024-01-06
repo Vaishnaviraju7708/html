@@ -1,9 +1,9 @@
 /* menu page */
 * { margin: 0 ; padding: 0}
 .menu{
-    width: 98%;
+    width: 100%;
     height: 4800px;
-    background-color:rgb(233, 114, 114);
+    background-color:white;
     
 }
 /* first page */
@@ -337,6 +337,7 @@
     margin-left: 5px;
     margin-right: 10px;
     margin-bottom: 10px;
+    float: left;
 
 }
 .rect1{
@@ -404,7 +405,7 @@
     padding-top: 8px;
     font-size: 20px;
       font-family: 'Pacifico', cursive;
-    color: rgb(228, 144, 35);
+    color: #FEA116;
 }
 .topic{
     width:90% ;
@@ -485,17 +486,7 @@
     font-family: 'Courier New', Courier, monospace;
 }
 .but1{
-     /* width: 60%; */
-     /* height: 60px; */
-     /* background-color: rgb(233, 138, 30); */
-     /* padding-top: 10px;
-     padding-left: 10px;
-     float: left;
-     color: white;
-     margin-right: 200px;
-     padding-bottom: 10px;
-     padding-right: 10px;
-     margin-top: 20px; */
+
      font-size: 16px;
     padding-left:10px ;
     margin-left: 10px;
@@ -516,7 +507,7 @@
 .read{
     width: 50px;
     height:40px ;
-    background-color: rgb(43, 226, 186);
+    background-color: rgb(43, 226, 180);
     margin-top: 20px;
 }
 /* third page */
@@ -635,8 +626,8 @@
 }
 .hr{
     width:87%;
-    height: 20px;
-    background-color: aqua;
+    /* height: 20px; */
+    background-color: whitesmoke;
     color: gray;
 }
 
@@ -711,7 +702,7 @@
     font-style: italic;
 }
 .number{
-    color: rgb(226, 170, 17);
+    color: #FEA116;
     font-size: 27px;
     float: right;
 }
@@ -724,7 +715,7 @@
 .fourth{
     width: 100%;
     height: 500px;
-    background-color: rgb(0, 255, 13);
+    background-color: whitesmoke;
 }
 .video{
     width: 50%;
@@ -1495,8 +1486,383 @@
     
     float: left;
 }
+/* end page */
+@media only screen and (max-width: 428px) {
+    .container {
+      background-color:black;
+      width: 100%;
+      margin: 0px;
+    margin-bottom: 0px;
+    height:1080px ;
+margin-left: 0px;
+margin-right: 0px;}
+    
+    .corner2{
+        display: none;
+        
+    }
+    .rest{
+        font-size: 27px;
+        margin-top: -15px;
+        margin-right: 40px;
+    }
+    .menu{
+        text-align: center;
+        align-items: center;
+    }
+    .box1{
+        align-items: center;
+        
+  
+        text-align: center;
+        margin-top: 35px;
+        margin-bottom: 0px;
+        height: 350px;
+        width: 85%;
+        margin-left: 0px;
+    }
+    .font{
+        font-size: 39px;
+        width: 100%;
+    }
+    .max1{
+        width: 100%;
+        text-align: center;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        height: 110px;
+    }
+    .max2{
+        margin-top: 0px;
+        width: 100%;
+    }
+    .para{
+        margin-top: 0px;
+        width: 100%;
+        font-size: 17px;
+    }
+    .b1{
+        width: 70%;
+        height: 35px;
+        font-size: 15px;
+        margin-left: 50px;
+    }
+    .max3{
+        margin-left: 55px;
+    }
+    .img{
+        width: 97%;
+        height: 350px;
+        float: left;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .box2{
+        float: left;
+        margin-top: 0px;
+        margin-left: 10px;
+        margin-right: 0px;
+        width: 90%;
+        height: 400px;
+    }
+    .div1{
+        width: 70%;
+    }
+    .div2{
+        margin-bottom: 0px;
+        margin-top: 30px;
+        height: 400px;
+        width: 95%;
+    }
+    .container2{
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 100%;
+        margin-top: 0px;
+        margin: 0px;
+        height:1500px ;
+    }
+    .top1{
+        width: 89%;
+        float:none;
+        height:230px ;
+        margin-left: 25px;
+        margin-right: 0px;
+        box-sizing: border-box;
+        border-radius: 2px;
+        padding-top: 0px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        margin-top: 20px;
+    }
+    .topp{
+        width: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+        height: 950px;
+    }
+    .top2{
+        width: 89%;
+        float:none;
+        height:230px ;
+        margin-left: 25px;
+        margin-right: 0px;
+        box-sizing: border-box;
+        border-radius: 2px;
+        padding-top: 0px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        margin-top: 20px;
+      
+    }
+    .top3{
+        width: 89%;
+        float:none;
+        height:230px ;
+        margin-left: 25px;
+        margin-right: 0px;
+        box-sizing: border-box;
+        border-radius: 2px;
+        padding-top: 0px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        margin-top: 20px;
+      
+    }  
+    .top4{
+        width: 89%;
+        float:none;
+        height:230px ;
+        margin-left: 25px;
+        margin-right: 0px;
+        box-sizing: border-box;
+        border-radius: 2px;
+        padding-top: 0px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        margin-top: 20px;
+      
+    }
+    .temp2{
+        width: 90%;
+        height: 400px;
+         margin-top: 60px;
+        float:none;
+    }
+    .content{
+        height: 900px;
+        margin-top: 0px;
+    }
+    .imge1{
+        width: 50%;
+        height: 200px;
+        
+    }
+   .rect1{
+        width:100%;
+        height: 235px;
+        margin-top: 50px;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+    }
+    .imge2{
+         width: 38%; 
+       height: 150px;
+       margin-right: 10px;
+     margin-top: 70px;   
+    }
+    .rect2{
+        width: 100%;
+        height: 200px;
+        margin-top: 0px;
+           
+    }
+    .imge3{
+        width: 30%;
+        height: 120px;
+        margin-left: 85px;
+        margin-top: 0px;}
+.imge4{
+       float: none;
+       margin-left: 220px;
+       width: 47%;
+       height: 180px;
+       margin-left: 215px;
+       margin-top: 0px;}
+.temp1{
+    width: 100%;
+    height: 550px;
+    margin-left: 0px;
+    float: none;
+}
+.head{
+    margin-left: 0px;
+    padding-left: 0px;
+    width: 25%;
+    float: none;
+}
+.topic{
+    width: 80%;
+    height: 65px;
+    font-size: 15px;
+    float: none;
+}
+ .num1{
+    width: 25%;
+    height: 50px;
+    font-size: 40px;} 
+ .con1{
+    width:60% ;
+    height: 40px;
+    float: right;
+    padding-top: 9px;
+    padding-left: 0px;} 
+.sub2{
+    float: none;
+    margin-top: 0px;
+    margin-left: 15px;
+}
+.sub1{
+    float: none;
+    width: 40%;
+}
+.but1{
+    width: 45%;
+    height: 60px;
+    margin-right: 200px;
+    margin-top: 0px;
+}
+.num2{
+    width: 25%;
+    height: 50px;
+    font-size: 40px;} 
+.con2{
+    width:70% ;
+    height: 40px;
+    float: right;
+    padding-top: 9px;
+    padding-left: 0px;} 
+    .food{
+        width: 30%;
+        height: 40px;
+       
+        margin-top: 630px;
+        margin-left: 150px;
+      
+      
+        padding-top: 0px;
+        padding-left: 0px;
+        padding-right: 0px;    
+    }
+  .third{
+    width: 100%;
+    height: 500px;
+  }
+  .bold{
+    width: 90%;
+    height: 50px;
+    margin-left: 40px;
+  
+    font-size: 30px;
+    padding-top: 0px;
+    padding-left: 5px;
+    
+}
+.coff{
+    width: 70%;
+    height: 150px;
+    margin-left: 50px;
+}
+.snac1{
+    width: 15%;
+    height: 60px;
 
+    margin-left: 50px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.snac2{
+    width: 15%;
+    height: 60px;
+    margin-left: 70px;
+}
+.snac3{
+    width: 75%;
+    height: 60px;
+    margin-left: 50px;
 
+}
+.hr{
+    /* margin-top: 10px;
+    margin-left: 90px; */
+    width: 120%;
+ 
+}
+.mrg{
+        width: 99%;
+        height: 410px;
+        margin-left: 0px;
+        margin-top: 0px;
+        
+    }
+    .evg{
+        width: 99%;
+        height: 300px;
+        margin-left: 0px;
+        margin-top: 0px;
+        
+    }
+    
+    .bb1{
+    width: 60%;
+    height: 60px;
+    margin-right: 50px; 
+  
+   
+    }
+    .number{
+    color: #FEA116;
+    font-size: 22px;
+    float: right;
+}
+    
+   .b2{
+    width: 60%;
+    height: 60px;
+    margin-right: 50px; 
+  
+   
+    }
+    .i1,.i2,.i3,.i4{
+        width: 20%;
+        margin-left: 5px;
+        height: 82px;
+        border-radius: 3px;
+    }
+    
+.b3,.b4{
+    width: 60%;
+    height: 60px;
+    margin-right: 50px; 
+  
+   
+    }
+    .im1,.im2,.im3,.im4{
+        width: 20%;
+        height: 82px;
+        margin-left: 10px;
+        border-radius: 3px;
+    }
+   
+}
 
-
+   
 
